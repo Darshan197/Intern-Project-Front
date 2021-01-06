@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@nativescript/theme": "^2.3.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "nativescript-background-http": "^4.2.1",
     "nativescript-carousel": "^6.1.1",
